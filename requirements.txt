@@ -1,2 +1,4 @@
-newspaper3k
+newspaper3k==0.2.8
 tensorflow
+nltk==3.7
+spacy==3.4.1
